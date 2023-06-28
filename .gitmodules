@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IVYplot"]
 	path = IVYplot
 	url = https://github.com/tringuyen2023/ivyplot
-	shallow = true
-	registered = true
